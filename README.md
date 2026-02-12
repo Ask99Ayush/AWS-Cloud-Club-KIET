@@ -36,99 +36,93 @@ All activities are maintained in a **chronological, structured, and reusable for
 
 ---
 
-
-## 🗓️ Events • Workshops • Bootcamps Timeline
-
+## 🗓️ Events • Workshops • Bootcamps Timeline  
 > *(Ascending order by date — new events can be added safely)*
 
 ---
 
-### 🎓 Student Induction Program
+### 🎓 Student Induction Program  
+**Type:** Event  
+**Date:** 12 September 2025  
 
-**Type:** Event
-**Date:** 12 September 2025
-
-**Focus:**
-
-* Club introduction & roadmap
-* Cloud & DevOps awareness
-* Orientation for first-year students
+**Focus:**  
+- Club introduction & roadmap  
+- Cloud & DevOps awareness  
+- Orientation for first-year students  
 
 ---
 
-### ☁️ CloudNova
+### ☁️ CloudNova  
+**Type:** Bootcamp  
+**Duration:** 3 Days  
+**Dates:** 23 September – 25 September 2025  
 
-**Type:** Bootcamp
-**Duration:** 3 Days
-**Dates:** 23 September – 25 September 2025
-
-**Focus:**
-
-* AWS Cloud Fundamentals
-* Linux for Cloud Engineers
-* Compute, Storage & Networking
-* Hands-on Labs
+**Focus:**  
+- AWS Cloud Fundamentals  
+- Linux for Cloud Engineers  
+- Compute, Storage & Networking  
+- Hands-on Labs  
 
 ---
 
-### 🏆 Innotech KIET – CloudFusion
+### 🏆 Innotech KIET – CloudFusion  
+**Type:** Event  
+**Date:** 15 November 2025  
 
-**Type:** Event
-**Date:** 15 November 2025
-
-**Focus:**
-
-* Cloud-based problem statements
-* Team competition
-* Practical AWS thinking
+**Focus:**  
+- Cloud-based problem statements  
+- Team competition  
+- Practical AWS thinking  
 
 ---
 
-### 🤖 Build AI Games with Python × Amazon Q
+### 🤖 Build AI Games with Python × Amazon Q  
+**Type:** Workshop  
+**Duration:** 1 Day  
+**Date:** 28 November 2025  
 
-**Type:** Workshop
-**Duration:** 1 Day
-**Date:** 28 November 2025
-
-**Focus:**
-
-* Python for game logic
-* Amazon Q introduction
-* AI-assisted development
+**Focus:**  
+- Python for game logic  
+- Amazon Q introduction  
+- AI-assisted development  
 
 ---
 
-### 🐳 Containerization 101
+### 🐳 Containerization 101  
+**Type:** Bootcamp  
+**Duration:** 2 Days  
+**Dates:** 23 February – 24 February 2026  
 
-**Type:** Bootcamp
-**Duration:** 2 Days
-**Dates:** 23 February – 24 February 2026
-
-**Focus:**
-
-* Containers & Docker fundamentals
-* Docker CLI hands-on
-* Containerizing applications
+**Focus:**  
+- Containers & Docker fundamentals  
+- Docker CLI hands-on  
+- Containerizing applications  
 
 ---
 
+## 🗂️ What You’ll Find in This Repo
 
-🗂️ What You’ll Find in This Repo
+- 📋 **Event summaries, agendas & schedules**  
+- 📚 **Curated learning resources & references**  
+- 💻 **Hands-on labs, commands & demos**  
+- 📄 **Reusable documentation templates for future events**  
+- 🗃️ **Year-wise organized event records**  
 
-📋 Event summaries, agendas & schedules
-📚 Curated learning resources & references
-💻 Hands-on labs, commands & demos
-📄 Reusable documentation templates for future events
-🗃️ Year-wise organized event records
 ---
 
 ## 🧭 How to Add New Events (Future-Proof)
 
 To add a new event:
-1. Append it **below the latest date**
-2. Follow the same section format:
+1. Append it **below the latest date** in the timeline  
+2. Follow this format:
 
+```md
+### 🎯 Event Name
+**Type:** Event / Workshop / Bootcamp  
+**Duration:** (if applicable)  
+**Date(s):**  
 
-
-
-
+**Focus:**  
+- Key point 1  
+- Key point 2  
+- Key point 3  
