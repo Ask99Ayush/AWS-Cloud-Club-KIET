@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/aws-cloud-club-kiet/assets/main/logo.png" width="120" />
 </p>
 
-<h1 align="center">AWS Cloud Club KIET 🚀</h1>
+<h1 align="center">AWS Cloud Club KIET</h1>
 
 <p align="center">
   <b>Official repository documenting all events, workshops & bootcamps conducted by AWS Cloud Club KIET</b>
@@ -18,23 +18,64 @@
 
 ## 📌 About This Repository
 
-This repository serves as a **central record** of all technical activities conducted by  
-**AWS Cloud Club KIET**, including:
+This repository acts as the **single source of truth** for all technical initiatives conducted by  
+**AWS Cloud Club KIET**.
 
-- 📅 Technical Events  
-- 🧑‍💻 Hands-on Workshops  
-- 🚀 Bootcamps & Training Programs  
+It includes documentation for:
+- 📅 Events  
+- 🧑‍💻 Workshops  
+- 🚀 Bootcamps  
 
-Each event is documented in a **structured, year-wise format** for transparency, learning continuity, and future reference.
+All activities are maintained in a **structured and chronological manner** for clarity, learning continuity, and record keeping.
+
+---
+
+## 🗓️ Events, Workshops & Bootcamps Timeline
+
+> Listed below in **ascending order of date**
+
+### 🎓 Student Induction Program  
+**Type:** Event  
+**Date:** 12 September 2025  
+**Hosted by:** Innotech KIET Team  
+**Track:** Cloud & Technology Awareness  
+
+---
+
+### ☁️ CloudNova  
+**Type:** Bootcamp  
+**Duration:** 3 Days  
+**Dates:** 23 September – 25 September 2025  
+
+---
+
+### ⚡ CloudFusion  
+**Type:** Event  
+**Date:** 15 November 2025  
+**Organized by:** AWS Cloud Club KIET  
+
+---
+
+### 🤖 Build AI Games with Python × Amazon Q  
+**Type:** Workshop  
+**Duration:** 1 Day  
+**Date:** 28 November 2025  
+
+---
+
+### 🐳 Containerization 101  
+**Type:** Bootcamp  
+**Duration:** 2 Days  
+**Dates:** 23 February – 24 February 2026  
 
 ---
 
 ## 🗂️ What You’ll Find Here
 
-- Event overviews & schedules  
+- Event summaries & schedules  
 - Learning resources & references  
 - Hands-on labs and commands  
-- Reusable templates for future events  
+- Reusable documentation templates  
 
 ---
 
