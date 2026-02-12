@@ -37,8 +37,11 @@ All activities are maintained in a **structured and chronological manner** for c
 ### 🎓 Student Induction Program  
 **Type:** Event  
 **Date:** 12 September 2025  
-**Hosted by:** Innotech KIET Team  
-**Track:** Cloud & Technology Awareness  
+
+**Overview:**
+- Introduction to AWS Cloud Club KIET  
+- Overview of Cloud, DevOps & Club Roadmap  
+- Orientation for first-year students  
 
 ---
 
@@ -47,12 +50,22 @@ All activities are maintained in a **structured and chronological manner** for c
 **Duration:** 3 Days  
 **Dates:** 23 September – 25 September 2025  
 
+**Overview:**
+- Cloud Fundamentals (AWS)
+- Linux Basics for Cloud
+- Compute, Storage & Networking
+- Hands-on Cloud Labs  
+
 ---
 
-### ⚡ CloudFusion  
+### 🏆 Innotech KIET – CloudFusion  
 **Type:** Event  
 **Date:** 15 November 2025  
-**Organized by:** AWS Cloud Club KIET  
+
+**Overview:**
+- Cloud-focused competition track
+- Problem-solving using AWS concepts
+- Team-based technical challenge  
 
 ---
 
@@ -61,12 +74,24 @@ All activities are maintained in a **structured and chronological manner** for c
 **Duration:** 1 Day  
 **Date:** 28 November 2025  
 
+**Overview:**
+- Python for Game Logic
+- Introduction to Amazon Q
+- AI-assisted Development  
+
 ---
 
 ### 🐳 Containerization 101  
 **Type:** Bootcamp  
 **Duration:** 2 Days  
 **Dates:** 23 February – 24 February 2026  
+
+**Overview:**
+- Containers & Docker Fundamentals
+- Docker CLI Hands-on
+- Containerizing Real Applications  
+
+---
 
 ---
 
