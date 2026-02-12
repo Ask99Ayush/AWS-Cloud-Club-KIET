@@ -113,13 +113,13 @@ All activities are maintained in a **chronological, structured, and reusable for
 ---
 
 
-## 🗂️ What You’ll Find in This Repo
+🗂️ What You’ll Find in This Repo
 
-- 📋 Event summaries & schedules  
-- 📚 Learning resources & references  
-- 💻 Hands-on labs & commands  
-- 📄 Reusable templates for future events  
-
+📋 Event summaries, agendas & schedules
+📚 Curated learning resources & references
+💻 Hands-on labs, commands & demos
+📄 Reusable documentation templates for future events
+🗃️ Year-wise organized event records
 ---
 
 ## 🧭 How to Add New Events (Future-Proof)
