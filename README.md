@@ -36,69 +36,82 @@ All activities are maintained in a **chronological, structured, and reusable for
 
 ---
 
-## 🗓️ Events • Workshops • Bootcamps Timeline  
+
+## 🗓️ Events • Workshops • Bootcamps Timeline
+
 > *(Ascending order by date — new events can be added safely)*
 
 ---
 
-### 🎓 Student Induction Program  
-**Type:** Event  
-**Date:** 12 September 2025  
+### 🎓 Student Induction Program
 
-**Focus:**  
-- Club introduction & roadmap  
-- Cloud & DevOps awareness  
-- Orientation for first-year students  
+**Type:** Event
+**Date:** 12 September 2025
 
----
+**Focus:**
 
-### ☁️ CloudNova  
-**Type:** Bootcamp  
-**Duration:** 3 Days  
-**Dates:** 23 September – 25 September 2025  
-
-**Focus:**  
-- AWS Cloud Fundamentals  
-- Linux for Cloud Engineers  
-- Compute, Storage & Networking  
-- Hands-on Labs  
+* Club introduction & roadmap
+* Cloud & DevOps awareness
+* Orientation for first-year students
 
 ---
 
-### 🏆 Innotech KIET – CloudFusion  
-**Type:** Event  
-**Date:** 15 November 2025  
+### ☁️ CloudNova
 
-**Focus:**  
-- Cloud-based problem statements  
-- Team competition  
-- Practical AWS thinking  
+**Type:** Bootcamp
+**Duration:** 3 Days
+**Dates:** 23 September – 25 September 2025
 
----
+**Focus:**
 
-### 🤖 Build AI Games with Python × Amazon Q  
-**Type:** Workshop  
-**Duration:** 1 Day  
-**Date:** 28 November 2025  
-
-**Focus:**  
-- Python for game logic  
-- Amazon Q introduction  
-- AI-assisted development  
+* AWS Cloud Fundamentals
+* Linux for Cloud Engineers
+* Compute, Storage & Networking
+* Hands-on Labs
 
 ---
 
-### 🐳 Containerization 101  
-**Type:** Bootcamp  
-**Duration:** 2 Days  
-**Dates:** 23 February – 24 February 2026  
+### 🏆 Innotech KIET – CloudFusion
 
-**Focus:**  
-- Containers & Docker fundamentals  
-- Docker CLI hands-on  
-- Containerizing applications  
+**Type:** Event
+**Date:** 15 November 2025
+
+**Focus:**
+
+* Cloud-based problem statements
+* Team competition
+* Practical AWS thinking
 
 ---
+
+### 🤖 Build AI Games with Python × Amazon Q
+
+**Type:** Workshop
+**Duration:** 1 Day
+**Date:** 28 November 2025
+
+**Focus:**
+
+* Python for game logic
+* Amazon Q introduction
+* AI-assisted development
+
+---
+
+### 🐳 Containerization 101
+
+**Type:** Bootcamp
+**Duration:** 2 Days
+**Dates:** 23 February – 24 February 2026
+
+**Focus:**
+
+* Containers & Docker fundamentals
+* Docker CLI hands-on
+* Containerizing applications
+
+---
+
 
 ## 🗂️ What You’ll Find in This Repo
 
@@ -114,3 +127,8 @@ All activities are maintained in a **chronological, structured, and reusable for
 To add a new event:
 1. Append it **below the latest date**
 2. Follow the same section format:
+
+
+
+
+
