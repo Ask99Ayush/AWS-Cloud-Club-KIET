@@ -91,7 +91,7 @@ All activities are maintained in a **chronological, structured, and reusable for
 ### 🐳 Containerization 101  
 **Type:** Bootcamp  
 **Duration:** 2 Days  
-**Dates:** 23 February – 24 February 2026  
+**Dates:** 19 February – 20 February 2026  
 
 **Focus:**  
 - Containers & Docker fundamentals  
