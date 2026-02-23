@@ -100,6 +100,28 @@ All activities are maintained in a **chronological, structured, and reusable for
 
 ---
 
+---
+
+### ☁️ Cloud & DevOps Hackathon
+
+**Type:** Hackathon
+**Duration:** 2 Days
+**Dates:** 25–26 February 2026
+
+**Focus:**
+
+* AWS Cloud & DevOps fundamentals
+* Automation and real-world problem solving
+
+**Team Rules:**
+
+* 4–5 members per team
+* Only the team leader registers
+* One Beginner + one Intermediate problem per team
+
+---
+
+
 ## 🗂️ What You’ll Find in This Repo
 
 - 📋 **Event summaries, agendas & schedules**  
