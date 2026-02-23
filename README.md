@@ -99,9 +99,6 @@ All activities are maintained in a **chronological, structured, and reusable for
 - Containerizing applications  
 
 ---
-
----
-
 ### ☁️ Cloud & DevOps Hackathon
 
 **Type:** Hackathon
