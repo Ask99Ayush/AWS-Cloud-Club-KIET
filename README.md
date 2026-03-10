@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://instagram.fdel27-6.fna.fbcdn.net/v/t51.2885-19/491439494_647804758071419_1559643711011113956_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDAuYzIifQ&_nc_ht=instagram.fdel27-6.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QHhbZsHr2Fdv1S_uybkEKWvgGF8YxhWdKQ-GvkFKYFU_9n1AxEL2hBhpGCZOxwp13g&_nc_ohc=-j-FMYKM_6wQ7kNvwHpI9g8&_nc_gid=UcOPq2NRaTpC1FSfrZ1swg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfsAK1vtNzkuleJQi8CLerO8x0L4KyKpkOIUv1qVYcEgsg&oe=6993E5E6&_nc_sid=7a9f4b" width="130" />
+<img src="https://scontent-del2-1.cdninstagram.com/v/t51.2885-19/491439494_647804758071419_1559643711011113956_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDAuYzIifQ&_nc_ht=scontent-del2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QH78KfrbFNWf-9d5x7EfT7Lr0JiOh9IglX6sW-2-sqRLm4IlkbAzqFfcM1yHRi9Rl8&_nc_ohc=QlOCuMNV668Q7kNvwGp7B9j&_nc_gid=JXrx0t78UzDZAP4fYBofYQ&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfwxOV6JmK38gmdiRixAXv_TGTrosd0UM4uVe54XisUJxw&oe=69B5F4A6&_nc_sid=7a9f4b" width="130" />
 
 <h1>AWS Cloud Club KIET</h1>
 
