@@ -99,7 +99,7 @@ All activities are maintained in a **chronological, structured, and reusable for
 - Containerizing applications  
 
 ---
-### ☁️ Cloud & DevOps Hackathon
+### ☁️ CloudSprint DevOps Challenge
 
 **Type:** Hackathon
 **Duration:** 2 Days
