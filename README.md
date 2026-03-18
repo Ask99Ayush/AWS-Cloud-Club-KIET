@@ -118,6 +118,22 @@ All activities are maintained in a **chronological, structured, and reusable for
 
 ---
 
+### 🤖 AWS AI Developer Workshop
+
+**3 Days • 23–25 March 2026**
+
+**Domains:** Web • AI • Cloud
+
+**Build:** Live AI app on AWS
+
+**Time:** 5:00–7:00 PM
+**Venue:** Room E-411
+
+**Outcome:** Resume-ready project
+
+**Note:** Limited seats
+
+---
 
 ## 🗂️ What You’ll Find in This Repo
 
