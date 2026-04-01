@@ -135,29 +135,3 @@ All activities are maintained in a **chronological, structured, and reusable for
 
 ---
 
-## 🗂️ What You’ll Find in This Repo
-
-- 📋 **Event summaries, agendas & schedules**  
-- 📚 **Curated learning resources & references**  
-- 💻 **Hands-on labs, commands & demos**  
-- 📄 **Reusable documentation templates for future events**  
-- 🗃️ **Year-wise organized event records**  
-
----
-
-## 🧭 How to Add New Events (Future-Proof)
-
-To add a new event:
-1. Append it **below the latest date** in the timeline  
-2. Follow this format:
-
-```md
-### 🎯 Event Name
-**Type:** Event / Workshop / Bootcamp  
-**Duration:** (if applicable)  
-**Date(s):**  
-
-**Focus:**  
-- Key point 1  
-- Key point 2  
-- Key point 3  
