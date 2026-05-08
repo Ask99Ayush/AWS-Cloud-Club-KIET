@@ -135,3 +135,15 @@ All activities are maintained in a **chronological, structured, and reusable for
 
 ---
 
+### 🚀 7-Day DevOps Starter Bootcamp
+
+**7 Days • 6–12 May 2026**
+
+**Domains:** DevOps • Linux • Git • Cloud
+
+**Build:** Portfolio Deployment using Git & GitHub
+
+**Outcome:** DevOps & Cloud foundation
+
+---
+
