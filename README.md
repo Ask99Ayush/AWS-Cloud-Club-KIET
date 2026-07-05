@@ -173,8 +173,3 @@ Events are listed in chronological order.
 - Building a Real-Time AWS Infrastructure Monitoring Platform
 
 ---
-
-
----
-
-**Maintained by AWS Student Builder Group at KIET Deemed to be University**
