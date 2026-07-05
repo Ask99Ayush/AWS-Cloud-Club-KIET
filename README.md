@@ -1,149 +1,180 @@
-<!-- ===================== AWS CLOUD CLUB KIET ===================== -->
+# AWS Student Builder Group at KIET Deemed to be University
 
-<div align="center">
-
-<img src="https://scontent-del2-1.cdninstagram.com/v/t51.2885-19/491439494_647804758071419_1559643711011113956_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDAuYzIifQ&_nc_ht=scontent-del2-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2QH78KfrbFNWf-9d5x7EfT7Lr0JiOh9IglX6sW-2-sqRLm4IlkbAzqFfcM1yHRi9Rl8&_nc_ohc=QlOCuMNV668Q7kNvwGp7B9j&_nc_gid=JXrx0t78UzDZAP4fYBofYQ&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfwxOV6JmK38gmdiRixAXv_TGTrosd0UM4uVe54XisUJxw&oe=69B5F4A6&_nc_sid=7a9f4b" width="130" />
-
-<h1>AWS Cloud Club KIET</h1>
-
-<b>Official Documentation Hub for All Events, Workshops & Bootcamps</b><br>
-<i>Cloud • DevOps • Linux • Containers • AI</i>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Club-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20DevOps%20%7C%20Linux-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-
-</div>
+Official documentation repository for events, workshops, bootcamps, hackathons, and technical sessions conducted by the AWS Student Builder Group at KIET Deemed to be University.
 
 ---
 
-## 📌 About This Repository
+# About This Repository
 
-This repository serves as the **central and official record** of all technical initiatives conducted by  
-**AWS Cloud Club KIET**.
+This repository serves as the official archive of all technical initiatives organized by the **AWS Student Builder Group at KIET Deemed to be University**.
 
-It documents:
-- 📅 Events  
-- 🧑‍💻 Workshops  
-- 🚀 Bootcamps  
-
-All activities are maintained in a **chronological, structured, and reusable format** to ensure:
-- transparency  
-- learning continuity  
-- long-term reference  
+This repository maintains documentation and logs of all workshops, events, bootcamps, hackathons, and technical sessions conducted by the AWS Student Builder Group at KIET Deemed to be University.
 
 ---
 
-## 🗓️ Events • Workshops • Bootcamps Timeline  
-> *(Ascending order by date — new events can be added safely)*
+# Event Index
+
+- [Student Induction Program](#student-induction-program)
+- [CloudNova](#cloudnova)
+- [Innotech KIET – CloudFusion](#innotech-kiet--cloudfusion)
+- [Build AI Games with Python × Amazon Q](#build-ai-games-with-python--amazon-q)
+- [Containerization 101](#containerization-101)
+- [CloudSprint DevOps Challenge](#cloudsprint-devops-challenge)
+- [AWS AI Developer Workshop](#aws-ai-developer-workshop)
+- [7-Day DevOps Starter Bootcamp](#7-day-devops-starter-bootcamp)
+- [MonitorX](#monitorx)
 
 ---
 
-### 🎓 Student Induction Program  
+# Events Timeline
+
+Events are listed in chronological order.
+
+---
+
+## Student Induction Program
+
 **Type:** Event  
-**Date:** 12 September 2025  
+**Date:** 12 September 2025
 
-**Focus:**  
-- Club introduction & roadmap  
-- Cloud & DevOps awareness  
-- Orientation for first-year students  
+### Focus
+
+- Introduction to AWS Student Builder Group
+- Community roadmap
+- Cloud & DevOps awareness
+- Member onboarding
 
 ---
 
-### ☁️ CloudNova  
+## CloudNova
+
 **Type:** Bootcamp  
 **Duration:** 3 Days  
-**Dates:** 23 September – 25 September 2025  
+**Dates:** 23–25 September 2025
 
-**Focus:**  
-- AWS Cloud Fundamentals  
-- Linux for Cloud Engineers  
-- Compute, Storage & Networking  
-- Hands-on Labs  
+### Focus
+
+- AWS Cloud Fundamentals
+- Linux Basics
+- Compute, Storage & Networking
+- Hands-on Labs
 
 ---
 
-### 🏆 Innotech KIET – CloudFusion  
+## Innotech KIET – CloudFusion
+
 **Type:** Event  
-**Date:** 15 November 2025  
+**Date:** 15 November 2025
 
-**Focus:**  
-- Cloud-based problem statements  
-- Team competition  
-- Practical AWS thinking  
+### Focus
+
+- Cloud-based problem statements
+- Team competition
+- AWS solution development
+- Innovation challenges
 
 ---
 
-### 🤖 Build AI Games with Python × Amazon Q  
+## Build AI Games with Python × Amazon Q
+
 **Type:** Workshop  
-**Duration:** 1 Day  
-**Date:** 28 November 2025  
+**Date:** 28 November 2025
 
-**Focus:**  
-- Python for game logic  
-- Amazon Q introduction  
-- AI-assisted development  
+### Focus
+
+- Python game development
+- Amazon Q
+- AI-assisted coding
+- Practical implementation
 
 ---
 
-### 🐳 Containerization 101  
+## Containerization 101
+
 **Type:** Bootcamp  
 **Duration:** 2 Days  
-**Dates:** 19 February – 20 February 2026  
+**Dates:** 19–20 February 2026
 
-**Focus:**  
-- Containers & Docker fundamentals  
-- Docker CLI hands-on  
-- Containerizing applications  
+### Focus
+
+- Docker Fundamentals
+- Docker CLI
+- Images & Containers
+- Containerizing applications
 
 ---
-### ☁️ CloudSprint DevOps Challenge
 
-**Type:** Hackathon
-**Duration:** 2 Days
+## CloudSprint DevOps Challenge
+
+**Type:** Hackathon  
+**Duration:** 2 Days  
 **Dates:** 25–26 February 2026
 
-**Focus:**
+### Focus
 
-* AWS Cloud & DevOps fundamentals
-* Automation and real-world problem solving
+- AWS Cloud
+- DevOps Fundamentals
+- Automation
+- Real-world problem solving
 
-**Team Rules:**
+### Team Rules
 
-* 4–5 members per team
-* Only the team leader registers
-* One Beginner + one Intermediate problem per team
-
----
-
-### 🤖 AWS AI Developer Workshop
-
-**3 Days • 23–25 March 2026**
-
-**Domains:** Web • AI • Cloud
-
-**Build:** Live AI app on AWS
-
-**Time:** 5:00–7:00 PM
-**Venue:** Room E-411
-
-**Outcome:** Resume-ready project
-
-**Note:** Limited seats
+- Teams of 4–5 members
+- Only the team leader registers
+- One Beginner and one Intermediate problem statement
 
 ---
 
-### 🚀 7-Day DevOps Starter Bootcamp
+## AWS AI Developer Workshop
 
-**7 Days • 6–12 May 2026**
+**Type:** Workshop  
+**Duration:** 3 Days  
+**Dates:** 23–25 March 2026
 
-**Domains:** DevOps • Linux • Git • Cloud
+### Focus
 
-**Build:** Portfolio Deployment using Git & GitHub
-
-**Outcome:** DevOps & Cloud foundation
+- Artificial Intelligence
+- Web Development
+- AWS Services
+- Live application development
 
 ---
 
+## 7-Day DevOps Starter Bootcamp
+
+**Type:** Bootcamp  
+**Duration:** 7 Days  
+**Dates:** 6–12 May 2026
+
+### Focus
+
+- Linux
+- Git & GitHub
+- DevOps Fundamentals
+- AWS Basics
+- Deployment Practices
+
+---
+
+## MonitorX
+
+**Type:** Hands-on AWS Workshop  
+**Duration:** 1.5 Hours  
+**Date:** 5 July 2026
+
+### Focus
+
+- Amazon EC2 Monitoring
+- Amazon CloudWatch
+- AWS Lambda Automation
+- Amazon SNS Notifications
+- AWS CloudTrail Auditing
+- Amazon S3 Log Storage
+- Building a Real-Time AWS Infrastructure Monitoring Platform
+
+---
+
+
+---
+
+**Maintained by AWS Student Builder Group at KIET Deemed to be University**
